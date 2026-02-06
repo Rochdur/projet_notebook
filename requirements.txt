@@ -3,4 +3,4 @@ numpy
 matplotlib
 seaborn
 plotly
-streamlit>=3.0
+streamlit
